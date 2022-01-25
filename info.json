@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 554.1444000000001,
+    "videos": [
         "Whitesnake~Here I Go Again FULL HQ-HSYqDIJfdbs.mp4",
         "W-P-L-J ~ The 4 Deuces (1955)(78 rpm)-pJ7WdJYjOS8.mp4",
         "World In My Eyes-TWSScY6xOtw.mp4",
@@ -48,7 +49,5 @@
         "Wan Light-V36g51g3B8U.mp4",
         "When The Sun Comes Out ~ Don Cherry  (1956)-U9LTyGrY6aA.mp4",
         "Who Knows ~ The Charms (1954)(78 rpm)-bpswn6gkCzw.mp4"
-    ],
-    "id": "w",
-    "total_size": 528.4732753906248
+    ]
 }
