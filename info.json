@@ -1,53 +1,241 @@
 {
     "available_space": true,
-    "total_size": 554.1444000000001,
-    "videos": [
-        "Whitesnake~Here I Go Again FULL HQ-HSYqDIJfdbs.mp4",
-        "W-P-L-J ~ The 4 Deuces (1955)(78 rpm)-pJ7WdJYjOS8.mp4",
-        "World In My Eyes-TWSScY6xOtw.mp4",
-        "Wes Montgomery - Wes' tune-ILtpmB2QZTg.mp4",
-        "Weezer - In The Garage-V0rV88Ev-og.mp4",
-        "Where Are You ~ Frankie Avalon  (1960)-7VF_yYS2BzQ.mp4",
-        "Who Can Explain  ~ Frankie Lymon & The Teenagers (1956)(78 rpm)-OqUCu_KDnN4.mp4",
-        "White Zombie - Thunder Kiss '65 (Official Video)-yPNFVj-pISU.mp4",
-        "WCW Mayhem Soundtrack - 04 - Here Comes The Pain-MFbvAii33Wc.mp4",
-        "Without A Song ~ The Gaylords  (1955)-97RkarorcDI.mp4",
-        "White Zombie - Welcome To Planet M.F.-H8gHMU-pDbU.mp4",
-        "Weezer - Say It Ain't So (Version 3)-ENXvZ9YRjbo.mp4",
-        "Wes Montgomery - Bock To Bock-g3faH74Sba4.mp4",
-        "White Zombie ft. Iggy Pop - Black Sunshine (Official Video)-sqPClltS5k8.mp4",
-        "Within The Ruins - Extinguish Them-SGxXveGfdqw.mp4",
-        "Wasted Tears-4EC8-KxnQo0.mp4",
-        "Without Love - Ken Boothe (Subtitulos Español)-7Bmt0Q8F1Wg.mp4",
-        "WLT - Golden Silvers - Magic Touch-b3jjwTWo_9A.mp4",
-        "wes montgomery---FarWes-OP289vAd3ZQ.mp4",
-        "Weezer - Undone -- The Sweater Song-LHQqqM5sr7g.mp4",
-        "Weeping Willow ~ The Five Satins (1956)-Nix5xs22Uk4.mp4",
-        "Wrong Number (P2p Mix)-5ZeytXEj2IU.mp4",
-        "WATERLOO ~ Stonewall Jackson  (1959)-_-QQI6lb_Hg.mp4",
-        "Within The Ruins - The Carousser (BEST QUALITY W_DOWNLOAD LINK)-NCvt9qXWTL8.mp4",
-        "Wham! - Wake Me Up Before You Go-Go (Official Video)-pIgZ7gMze7A.mp4",
-        "WØLFFE - Shoot You Down-ZjInM0apmfE.mp4",
-        "White Zombie - More Human Than Human (Official Video)-E0E0ynyIUsg.mp4",
-        "Wake Up-cCiFloUKUBs.mp4",
-        "Wrath Within-_RI3G9HKZW8.mp4",
-        "Within The Ruins - Behold The Harlot (BEST QUALITY W_DOWNLOAD LINK)-8T7WffJ9w00.mp4",
-        "Waiting-ip3-crAs1U4.mp4",
-        "Wanda Jackson - Hard Headed Woman-pzJ3hiqsi0U.mp4",
-        "Webb Pierce - Where'd Ya Stay Last Night-n7HfZwE-isM.mp4",
-        "With a Hip-S9knRAZIVHs.mp4",
-        "Wish You Were Here-hjpF8ukSrvk.mp4",
-        "Where You Go I Go - Kim Walker-Smith _ Jesus Culture - Jesus Culture Music-c2U3PU-E32E.mp4",
-        "WARRIOR La ultima Pelea _ Español Latino-H-O755Qvm0o.mp4",
-        "When Lights Are Low (2006 Remaster)-JVyg-l-DySE.mp4",
-        "Waiting for the Sun - The Doors-W1WnrjciO8c.mp4",
-        "Won't Stop-YGAj36jNVMw.mp4",
-        "Will Power - Persona 5-_BNXe3QSLfM.mp4",
-        "We Can Last Forever (2009 Remaster)-iLJfSeQzjmU.mp4",
-        "WILL U STILL LOVE ME TOMORROW -THE SHIRELLES (LYRICS)-65MEU-2Afv8.mp4",
-        "Wes Montgomery - Montgomeryland Funk-nSQzaas-z-Q.mp4",
-        "Wan Light-V36g51g3B8U.mp4",
-        "When The Sun Comes Out ~ Don Cherry  (1956)-U9LTyGrY6aA.mp4",
-        "Who Knows ~ The Charms (1954)(78 rpm)-bpswn6gkCzw.mp4"
-    ]
+    "files": [
+        {
+            "name": "Whitesnake~Here I Go Again FULL HQ-HSYqDIJfdbs.mp4",
+            "path": "music_w/videos/Whitesnake~Here I Go Again FULL HQ-HSYqDIJfdbs.mp4",
+            "size": 6.495498240000001
+        },
+        {
+            "name": "W-P-L-J ~ The 4 Deuces (1955)(78 rpm)-pJ7WdJYjOS8.mp4",
+            "path": "music_w/videos/W-P-L-J ~ The 4 Deuces (1955)(78 rpm)-pJ7WdJYjOS8.mp4",
+            "size": 5.863571456000001
+        },
+        {
+            "name": "World In My Eyes-TWSScY6xOtw.mp4",
+            "path": "music_w/videos/World In My Eyes-TWSScY6xOtw.mp4",
+            "size": 6.330642432
+        },
+        {
+            "name": "Wes Montgomery - Wes' tune-ILtpmB2QZTg.mp4",
+            "path": "music_w/videos/Wes Montgomery - Wes' tune-ILtpmB2QZTg.mp4",
+            "size": 5.821676544000001
+        },
+        {
+            "name": "Weezer - In The Garage-V0rV88Ev-og.mp4",
+            "path": "music_w/videos/Weezer - In The Garage-V0rV88Ev-og.mp4",
+            "size": 6.518709248
+        },
+        {
+            "name": "Where Are You ~ Frankie Avalon  (1960)-7VF_yYS2BzQ.mp4",
+            "path": "music_w/videos/Where Are You ~ Frankie Avalon  (1960)-7VF_yYS2BzQ.mp4",
+            "size": 4.53930496
+        },
+        {
+            "name": "Who Can Explain  ~ Frankie Lymon & The Teenagers (1956)(78 rpm)-OqUCu_KDnN4.mp4",
+            "path": "music_w/videos/Who Can Explain  ~ Frankie Lymon & The Teenagers (1956)(78 rpm)-OqUCu_KDnN4.mp4",
+            "size": 5.825631232
+        },
+        {
+            "name": "White Zombie - Thunder Kiss '65 (Official Video)-yPNFVj-pISU.mp4",
+            "path": "music_w/videos/White Zombie - Thunder Kiss '65 (Official Video)-yPNFVj-pISU.mp4",
+            "size": 21.237129216
+        },
+        {
+            "name": "WCW Mayhem Soundtrack - 04 - Here Comes The Pain-MFbvAii33Wc.mp4",
+            "path": "music_w/videos/WCW Mayhem Soundtrack - 04 - Here Comes The Pain-MFbvAii33Wc.mp4",
+            "size": 7.811458048
+        },
+        {
+            "name": "Without A Song ~ The Gaylords  (1955)-97RkarorcDI.mp4",
+            "path": "music_w/videos/Without A Song ~ The Gaylords  (1955)-97RkarorcDI.mp4",
+            "size": 5.04521728
+        },
+        {
+            "name": "White Zombie - Welcome To Planet M.F.-H8gHMU-pDbU.mp4",
+            "path": "music_w/videos/White Zombie - Welcome To Planet M.F.-H8gHMU-pDbU.mp4",
+            "size": 13.556714496000001
+        },
+        {
+            "name": "Weezer - Say It Ain't So (Version 3)-ENXvZ9YRjbo.mp4",
+            "path": "music_w/videos/Weezer - Say It Ain't So (Version 3)-ENXvZ9YRjbo.mp4",
+            "size": 15.042622464
+        },
+        {
+            "name": "Wes Montgomery - Bock To Bock-g3faH74Sba4.mp4",
+            "path": "music_w/videos/Wes Montgomery - Bock To Bock-g3faH74Sba4.mp4",
+            "size": 13.714194432000001
+        },
+        {
+            "name": "White Zombie ft. Iggy Pop - Black Sunshine (Official Video)-sqPClltS5k8.mp4",
+            "path": "music_w/videos/White Zombie ft. Iggy Pop - Black Sunshine (Official Video)-sqPClltS5k8.mp4",
+            "size": 25.732960256000002
+        },
+        {
+            "name": "Within The Ruins - Extinguish Them-SGxXveGfdqw.mp4",
+            "path": "music_w/videos/Within The Ruins - Extinguish Them-SGxXveGfdqw.mp4",
+            "size": 24.769901568
+        },
+        {
+            "name": "Wasted Tears-4EC8-KxnQo0.mp4",
+            "path": "music_w/videos/Wasted Tears-4EC8-KxnQo0.mp4",
+            "size": 8.593839104
+        },
+        {
+            "name": "Without Love - Ken Boothe (Subtitulos Español)-7Bmt0Q8F1Wg.mp4",
+            "path": "music_w/videos/Without Love - Ken Boothe (Subtitulos Español)-7Bmt0Q8F1Wg.mp4",
+            "size": 6.749359104000001
+        },
+        {
+            "name": "WLT - Golden Silvers - Magic Touch-b3jjwTWo_9A.mp4",
+            "path": "music_w/videos/WLT - Golden Silvers - Magic Touch-b3jjwTWo_9A.mp4",
+            "size": 24.581236736
+        },
+        {
+            "name": "wes montgomery---FarWes-OP289vAd3ZQ.mp4",
+            "path": "music_w/videos/wes montgomery---FarWes-OP289vAd3ZQ.mp4",
+            "size": 9.027064832
+        },
+        {
+            "name": "Weezer - Undone -- The Sweater Song-LHQqqM5sr7g.mp4",
+            "path": "music_w/videos/Weezer - Undone -- The Sweater Song-LHQqqM5sr7g.mp4",
+            "size": 16.177278976
+        },
+        {
+            "name": "Weeping Willow ~ The Five Satins (1956)-Nix5xs22Uk4.mp4",
+            "path": "music_w/videos/Weeping Willow ~ The Five Satins (1956)-Nix5xs22Uk4.mp4",
+            "size": 7.671694336000001
+        },
+        {
+            "name": "Wrong Number (P2p Mix)-5ZeytXEj2IU.mp4",
+            "path": "music_w/videos/Wrong Number (P2p Mix)-5ZeytXEj2IU.mp4",
+            "size": 10.734726144000001
+        },
+        {
+            "name": "WATERLOO ~ Stonewall Jackson  (1959)-_-QQI6lb_Hg.mp4",
+            "path": "music_w/videos/WATERLOO ~ Stonewall Jackson  (1959)-_-QQI6lb_Hg.mp4",
+            "size": 4.542473216
+        },
+        {
+            "name": "Within The Ruins - The Carousser (BEST QUALITY W_DOWNLOAD LINK)-NCvt9qXWTL8.mp4",
+            "path": "music_w/videos/Within The Ruins - The Carousser (BEST QUALITY W_DOWNLOAD LINK)-NCvt9qXWTL8.mp4",
+            "size": 16.23606784
+        },
+        {
+            "name": "Wham! - Wake Me Up Before You Go-Go (Official Video)-pIgZ7gMze7A.mp4",
+            "path": "music_w/videos/Wham! - Wake Me Up Before You Go-Go (Official Video)-pIgZ7gMze7A.mp4",
+            "size": 20.620362752000002
+        },
+        {
+            "name": "WØLFFE - Shoot You Down-ZjInM0apmfE.mp4",
+            "path": "music_w/videos/WØLFFE - Shoot You Down-ZjInM0apmfE.mp4",
+            "size": 10.842279936
+        },
+        {
+            "name": "White Zombie - More Human Than Human (Official Video)-E0E0ynyIUsg.mp4",
+            "path": "music_w/videos/White Zombie - More Human Than Human (Official Video)-E0E0ynyIUsg.mp4",
+            "size": 23.959119872000002
+        },
+        {
+            "name": "Wake Up-cCiFloUKUBs.mp4",
+            "path": "music_w/videos/Wake Up-cCiFloUKUBs.mp4",
+            "size": 12.731076608
+        },
+        {
+            "name": "Wrath Within-_RI3G9HKZW8.mp4",
+            "path": "music_w/videos/Wrath Within-_RI3G9HKZW8.mp4",
+            "size": 4.453071872000001
+        },
+        {
+            "name": "Within The Ruins - Behold The Harlot (BEST QUALITY W_DOWNLOAD LINK)-8T7WffJ9w00.mp4",
+            "path": "music_w/videos/Within The Ruins - Behold The Harlot (BEST QUALITY W_DOWNLOAD LINK)-8T7WffJ9w00.mp4",
+            "size": 8.418505728000001
+        },
+        {
+            "name": "Waiting-ip3-crAs1U4.mp4",
+            "path": "music_w/videos/Waiting-ip3-crAs1U4.mp4",
+            "size": 4.649198592
+        },
+        {
+            "name": "Wanda Jackson - Hard Headed Woman-pzJ3hiqsi0U.mp4",
+            "path": "music_w/videos/Wanda Jackson - Hard Headed Woman-pzJ3hiqsi0U.mp4",
+            "size": 8.308182016
+        },
+        {
+            "name": "Webb Pierce - Where'd Ya Stay Last Night-n7HfZwE-isM.mp4",
+            "path": "music_w/videos/Webb Pierce - Where'd Ya Stay Last Night-n7HfZwE-isM.mp4",
+            "size": 21.797044224
+        },
+        {
+            "name": "With a Hip-S9knRAZIVHs.mp4",
+            "path": "music_w/videos/With a Hip-S9knRAZIVHs.mp4",
+            "size": 4.910142464000001
+        },
+        {
+            "name": "Wish You Were Here-hjpF8ukSrvk.mp4",
+            "path": "music_w/videos/Wish You Were Here-hjpF8ukSrvk.mp4",
+            "size": 6.641580032
+        },
+        {
+            "name": "Where You Go I Go - Kim Walker-Smith _ Jesus Culture - Jesus Culture Music-c2U3PU-E32E.mp4",
+            "path": "music_w/videos/Where You Go I Go - Kim Walker-Smith _ Jesus Culture - Jesus Culture Music-c2U3PU-E32E.mp4",
+            "size": 34.221186048
+        },
+        {
+            "name": "WARRIOR La ultima Pelea _ Español Latino-H-O755Qvm0o.mp4",
+            "path": "music_w/videos/WARRIOR La ultima Pelea _ Español Latino-H-O755Qvm0o.mp4",
+            "size": 47.741115392000005
+        },
+        {
+            "name": "When Lights Are Low (2006 Remaster)-JVyg-l-DySE.mp4",
+            "path": "music_w/videos/When Lights Are Low (2006 Remaster)-JVyg-l-DySE.mp4",
+            "size": 7.513020416000001
+        },
+        {
+            "name": "Waiting for the Sun - The Doors-W1WnrjciO8c.mp4",
+            "path": "music_w/videos/Waiting for the Sun - The Doors-W1WnrjciO8c.mp4",
+            "size": 9.591020544000001
+        },
+        {
+            "name": "Won't Stop-YGAj36jNVMw.mp4",
+            "path": "music_w/videos/Won't Stop-YGAj36jNVMw.mp4",
+            "size": 10.166913024000001
+        },
+        {
+            "name": "Will Power - Persona 5-_BNXe3QSLfM.mp4",
+            "path": "music_w/videos/Will Power - Persona 5-_BNXe3QSLfM.mp4",
+            "size": 7.766805504000001
+        },
+        {
+            "name": "We Can Last Forever (2009 Remaster)-iLJfSeQzjmU.mp4",
+            "path": "music_w/videos/We Can Last Forever (2009 Remaster)-iLJfSeQzjmU.mp4",
+            "size": 9.863280640000001
+        },
+        {
+            "name": "WILL U STILL LOVE ME TOMORROW -THE SHIRELLES (LYRICS)-65MEU-2Afv8.mp4",
+            "path": "music_w/videos/WILL U STILL LOVE ME TOMORROW -THE SHIRELLES (LYRICS)-65MEU-2Afv8.mp4",
+            "size": 7.432472576
+        },
+        {
+            "name": "Wes Montgomery - Montgomeryland Funk-nSQzaas-z-Q.mp4",
+            "path": "music_w/videos/Wes Montgomery - Montgomeryland Funk-nSQzaas-z-Q.mp4",
+            "size": 6.909861888
+        },
+        {
+            "name": "Wan Light-V36g51g3B8U.mp4",
+            "path": "music_w/videos/Wan Light-V36g51g3B8U.mp4",
+            "size": 2.710498304
+        },
+        {
+            "name": "When The Sun Comes Out ~ Don Cherry  (1956)-U9LTyGrY6aA.mp4",
+            "path": "music_w/videos/When The Sun Comes Out ~ Don Cherry  (1956)-U9LTyGrY6aA.mp4",
+            "size": 4.4092467200000005
+        },
+        {
+            "name": "Who Knows ~ The Charms (1954)(78 rpm)-bpswn6gkCzw.mp4",
+            "path": "music_w/videos/Who Knows ~ The Charms (1954)(78 rpm)-bpswn6gkCzw.mp4",
+            "size": 5.869435904
+        }
+    ],
+    "total_size": 554.1443932160001
 }
