@@ -122,6 +122,11 @@
             "size": 7.671694336000001
         },
         {
+            "name": "XTC - Dear God-p554R-Jq43A.mp4",
+            "path": "music_w/videos/XTC - Dear God-p554R-Jq43A.mp4",
+            "size": 15.84617472
+        },
+        {
             "name": "Calypso Rose - Calypso Queen (Mo Laudi Remix)-Z3Z7sUHGNuY.mp4",
             "path": "music_w/videos/Calypso Rose - Calypso Queen (Mo Laudi Remix)-Z3Z7sUHGNuY.mp4",
             "size": 13.173898240000002
@@ -265,7 +270,12 @@
             "name": "Who Knows ~ The Charms (1954)(78 rpm)-bpswn6gkCzw.mp4",
             "path": "music_w/videos/Who Knows ~ The Charms (1954)(78 rpm)-bpswn6gkCzw.mp4",
             "size": 5.869435904
+        },
+        {
+            "name": "TOTP 1977 Synthesizer Special-WyvVKRDjOiw.mp4",
+            "path": "music_w/videos/TOTP 1977 Synthesizer Special-WyvVKRDjOiw.mp4",
+            "size": 30.18517504
         }
     ],
-    "total_size": 610.6407321600002
+    "total_size": 656.6720819200002
 }
