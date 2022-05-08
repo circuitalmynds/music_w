@@ -67,6 +67,11 @@
             "size": 13.556714496000001
         },
         {
+            "name": "Château perdu-aD0utb8kuWc.mp4",
+            "path": "music_w/videos/Château perdu-aD0utb8kuWc.mp4",
+            "size": 5.145938944
+        },
+        {
             "name": "Weezer - Say It Ain't So (Version 3)-ENXvZ9YRjbo.mp4",
             "path": "music_w/videos/Weezer - Say It Ain't So (Version 3)-ENXvZ9YRjbo.mp4",
             "size": 15.042622464
@@ -297,5 +302,5 @@
             "size": 30.18517504
         }
     ],
-    "total_size": 719.7200936960003
+    "total_size": 724.8660326400003
 }
