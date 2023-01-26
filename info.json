@@ -30,6 +30,20 @@
             "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/White Zombie - Welcome To Planet M.F.-H8gHMU-pDbU.mp4?raw=true"
         },
         {
+            "id": "sqPClltS5k8",
+            "name": "White Zombie - Black Sunshine ft. Iggy Pop-sqPClltS5k8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w/videos/White Zombie - Black Sunshine ft. Iggy Pop-sqPClltS5k8.mp4",
+            "size": 18.832057,
+            "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/White Zombie - Black Sunshine ft. Iggy Pop-sqPClltS5k8.mp4?raw=true"
+        },
+        {
+            "id": "aD0utb8kuWc",
+            "name": "Cléa Vincent - Château Perdu-aD0utb8kuWc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w/videos/Cléa Vincent - Château Perdu-aD0utb8kuWc.mp4",
+            "size": 11.178932,
+            "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/Cléa Vincent - Château Perdu-aD0utb8kuWc.mp4?raw=true"
+        },
+        {
             "id": "65MEU-2Afv8",
             "name": "WILL U STILL LOVE ME TOMORROW -THE SHIRELLES (LYRICS)-65MEU-2Afv8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/w/videos/WILL U STILL LOVE ME TOMORROW -THE SHIRELLES (LYRICS)-65MEU-2Afv8.mp4",
@@ -65,11 +79,25 @@
             "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/WCW Mayhem Soundtrack - 04 - Here Comes The Pain-MFbvAii33Wc.mp4?raw=true"
         },
         {
+            "id": "ENXvZ9YRjbo",
+            "name": "Weezer - Say It Ain't So (Official Video)-ENXvZ9YRjbo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w/videos/Weezer - Say It Ain't So (Official Video)-ENXvZ9YRjbo.mp4",
+            "size": 6.520751,
+            "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/Weezer - Say It Ain't So (Official Video)-ENXvZ9YRjbo.mp4?raw=true"
+        },
+        {
             "id": "hl-7tqgxhkM",
             "name": "João Gilberto - 11 - Hô-bá-lá-lá-hl-7tqgxhkM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/w/videos/João Gilberto - 11 - Hô-bá-lá-lá-hl-7tqgxhkM.mp4",
             "size": 3.334708,
             "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/João Gilberto - 11 - Hô-bá-lá-lá-hl-7tqgxhkM.mp4?raw=true"
+        },
+        {
+            "id": "7Bmt0Q8F1Wg",
+            "name": "Ken Boothe - Without Love-7Bmt0Q8F1Wg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w/videos/Ken Boothe - Without Love-7Bmt0Q8F1Wg.mp4",
+            "size": 1.6521569999999999,
+            "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/Ken Boothe - Without Love-7Bmt0Q8F1Wg.mp4?raw=true"
         },
         {
             "id": "LHQqqM5sr7g",
@@ -240,6 +268,13 @@
             "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/Los Cojolites EL SON SIN FIN  (Video Oficial)-CcziwUf6C84.mp4?raw=true"
         },
         {
+            "id": "GLtnOJFAUDY",
+            "name": "'Hey' Julio Iglesias [español]-GLtnOJFAUDY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w/videos/'Hey' Julio Iglesias [español]-GLtnOJFAUDY.mp4",
+            "size": 7.496079,
+            "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/'Hey' Julio Iglesias [español]-GLtnOJFAUDY.mp4?raw=true"
+        },
+        {
             "id": "7VF_yYS2BzQ",
             "name": "Where Are You ~ Frankie Avalon  (1960)-7VF_yYS2BzQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/w/videos/Where Are You ~ Frankie Avalon  (1960)-7VF_yYS2BzQ.mp4",
@@ -289,11 +324,25 @@
             "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/With a Hip-S9knRAZIVHs.mp4?raw=true"
         },
         {
+            "id": "E0E0ynyIUsg",
+            "name": "White Zombie - More Human Than Human-E0E0ynyIUsg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w/videos/White Zombie - More Human Than Human-E0E0ynyIUsg.mp4",
+            "size": 17.01303,
+            "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/White Zombie - More Human Than Human-E0E0ynyIUsg.mp4?raw=true"
+        },
+        {
             "id": "pJ7WdJYjOS8",
             "name": "W-P-L-J ~ The 4 Deuces (1955)(78 rpm)-pJ7WdJYjOS8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/w/videos/W-P-L-J ~ The 4 Deuces (1955)(78 rpm)-pJ7WdJYjOS8.mp4",
             "size": 5.726144,
             "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/W-P-L-J ~ The 4 Deuces (1955)(78 rpm)-pJ7WdJYjOS8.mp4?raw=true"
+        },
+        {
+            "id": "yPNFVj-pISU",
+            "name": "White Zombie - Thunder Kiss '65-yPNFVj-pISU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w/videos/White Zombie - Thunder Kiss '65-yPNFVj-pISU.mp4",
+            "size": 10.334508,
+            "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/White Zombie - Thunder Kiss '65-yPNFVj-pISU.mp4?raw=true"
         },
         {
             "id": "U9LTyGrY6aA",
@@ -392,6 +441,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/w/videos/Wes Montgomery - Bock To Bock-g3faH74Sba4.mp4",
             "size": 13.392768,
             "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/Wes Montgomery - Bock To Bock-g3faH74Sba4.mp4?raw=true"
+        },
+        {
+            "id": "65MEU-2Afv8",
+            "name": "Bee Gees - Will You Still Love Me Tomorrow-65MEU-2Afv8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w/videos/Bee Gees - Will You Still Love Me Tomorrow-65MEU-2Afv8.mp4",
+            "size": 17.090939,
+            "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/Bee Gees - Will You Still Love Me Tomorrow-65MEU-2Afv8.mp4?raw=true"
         },
         {
             "id": "OP289vAd3ZQ",
@@ -499,5 +555,5 @@
             "url": "https://github.com/circuitalmynds/music_w/blob/main/videos/Wes Montgomery - Wes' tune-ILtpmB2QZTg.mp4?raw=true"
         }
     ],
-    "total_size": 1011.0127090000002
+    "total_size": 1101.131162
 }
